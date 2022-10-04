@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 new on remote
 changed 2
+=======
+2 lines deleted
+\
+>>>>>>> dev2
