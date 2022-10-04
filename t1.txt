@@ -4,4 +4,8 @@ changed 2
 =======
 2 lines deleted
 \
+<<<<<<< HEAD
+>>>>>>> dev2
+=======
+with
 >>>>>>> dev2
