@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master
+=======
+dev 3 branch
+>>>>>>> dev3
